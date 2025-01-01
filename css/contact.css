@@ -1,0 +1,44 @@
+.contact{
+    background-image: url(../images/article2.png.jpg);
+}
+h2{padding-top: 2vh;
+    margin-left:2vw;
+}
+.form-box{
+     display: flex;
+    flex-direction: column;
+    width: 22vw;
+}
+.form-box button{
+    border-radius: 2vh;
+    width: 12vw;
+    font-size: 2.4vh;
+    font-weight: 600;
+    height: 6vh;
+    margin: 2vh;
+    transition: all 0.4s ease-in-out;
+}
+
+.form-box input{padding-left: 1vw;
+    width: 53vw;
+    border-radius: 1.5vh;
+    height: 6vh;
+    margin: 2vh;
+    font-size: 2.4vh;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+}
+.form-box button:hover{
+    background-color: purple;
+    color: white;
+}
+.form-box input:hover{
+    background-color: #e5e5e5;
+    border: 2px solid #FFE082;
+}
+textarea{
+    margin: 2vh;
+}
+
+
+    

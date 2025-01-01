@@ -1,0 +1,42 @@
+.blog-image img {
+    width: 100%;
+    height: 65vh;
+}
+
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content {
+    background-color: #f5f5f5;
+}
+
+.content p {
+    margin-top: 2vh;
+}
+
+.content h1 {
+    margin-top: 2vh;
+}
+
+.intro {
+    font-weight: bold;
+}
+
+.last-para {
+    margin-bottom: 2vh;
+}
+
+.Author {
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2.5vh;
+}
+
+.socialMedia-icons i {
+    font-size: 2.5vh;
+    margin: 1vh;
+}

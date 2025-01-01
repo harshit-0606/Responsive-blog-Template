@@ -1,0 +1,86 @@
+.max-width1 {
+    width: 80vw;
+}
+#max-width1{
+    width: 80vw;
+}
+
+.max-width2 {
+    width: 60vw;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify {
+    justify-content: center;
+}
+
+.align {
+    align-items: center;
+}
+
+.h1 {
+    height: 5vh;
+}
+
+.border {
+    border: none;
+    border: 2px solid lightgray;
+}
+
+.font-size {
+    font-size: 2.4vh;
+}
+
+ul li {
+    transition: all 0.3s ease-in-out;
+    list-style: none;
+}
+
+.a {
+    text-decoration: none;
+    color: black;
+}
+
+.a:hover {
+    background-color: antiquewhite;
+    font-weight: bolder;
+}
+
+
+
+.m-top {
+    margin-top: 0.7rem;
+}
+
+.m-bottom {
+    margin-bottom: 1.5vh;
+}
+
+.m-left {
+    margin-left: 4vh;
+}
+
+h3 {
+    margin-right: 2.0vh;
+}
+h2{
+    margin-bottom: 1vw;
+    margin-left: 11vw;
+} 
+form {
+    display: flex;
+    align-items: center; /* Vertical alignment ke liye */
+    gap: 0; /* Gap ko 0 kare */
+    margin: 0; /* Agar extra margin ho to remove kare */
+    padding: 0; /* Extra padding remove kare */
+}
+
+
+    
